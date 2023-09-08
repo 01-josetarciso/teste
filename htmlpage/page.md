@@ -6,3 +6,5 @@
 
 - oi ( botão menos +  space = bolinha de lista)
 - denovo
+- oi
+- asdnbasdkjfbasjk
